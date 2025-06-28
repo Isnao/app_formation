@@ -2,3 +2,4 @@ node_modules
 .vscode
 package-lock.json
 app-example/
+expo-env.d.ts
